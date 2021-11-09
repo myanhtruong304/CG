@@ -1,5 +1,3 @@
-pip install pycoingecko
-
 from pycoingecko import CoinGeckoAPI
 import time
 cg = CoinGeckoAPI()
